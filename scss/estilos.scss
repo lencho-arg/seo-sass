@@ -1,0 +1,39 @@
+$primary: red;
+
+@import "bootstrap";
+
+.banner {
+    background-image: url(../images/dolomiti-unesco-1024x410.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner1 {
+    background-image: url(../images/pexels-christian-heitz-842711.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner2 {
+    background-image: url(../images/lago-di-como-13-696x465.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner3 {
+    background-image: url(../images/lago-di-braies-30.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sombreado {
+    text-shadow: 0px 3px #333333;
+}
+
+.imagen {
+    width: 750px;
+}
